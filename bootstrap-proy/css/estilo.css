@@ -1,0 +1,45 @@
+body{
+    margin-top: 70px;
+}
+.cabecera{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 70px;
+}
+.navbar-icon{
+    font-size: 35px;
+    color: rgb(73, 41, 133);
+}
+.navbar{
+    background-color: rgb(64, 102, 172);
+}
+#registro{
+    text-align: right;
+}
+#t1{
+    background-color:rgb(68, 81, 155);
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+}
+.contenido{
+    position: fixed;
+    top: 16%;
+    height: 75%;
+    width: 100%;
+    overflow: auto;
+}
+.embed-responsive {
+    width: 370px; /* Ajusta este valor al ancho que desees */
+    height: 400px; /* Esto mantiene la relación de aspecto del video */
+    background-color: black;
+}
+.imagen{
+    height: 250px;
+    width: 340px;
+    border-bottom: 2px solid rgb(27, 17, 36);
+}
+.music-data-section{
+    background-color: #302c2c;
+}
